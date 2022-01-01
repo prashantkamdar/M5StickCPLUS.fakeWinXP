@@ -1,10 +1,10 @@
 # M5StickCPLUS.fakeWinXP
 
 Heavily inspired by https://github.com/VolosR/fAKEWINESP
-<br>
+<br><br>
 Changes from original: "reboot" after BSOD, then going to desktop and playing the Windows XP chime.<br>
 Video: https://www.youtube.com/watch?v=zMJDMvlq3Io
-<br>
+<br><br>
 Have to get the images of exact size, resizing existing images to new dimensions will not work.<br>
 M5StickC Plus is 135*240.<br>
 Downloaded the respective images from the internet, and resized keeping aspect ratio for width 135px.<br>
