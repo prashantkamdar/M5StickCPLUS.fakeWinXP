@@ -15,5 +15,6 @@ For the loading screen, downloaded the gif and resized it online keeping aspect 
 Then downloaded individual images of the gif.<br>
 Used the tool https://github.com/cirquit/UTFTConverter to convert all the images to C array using terminal.<br>
 After manually creating the header file for the loading gif from the C arrays, the space constraint of M5StickC Plus was getting breached.<br>
+Removed half the images (kept 1, removed 1, kept 1, removed 1) and 1-2 images at the start and 1-2 images in the end.<br>
 Had to minify all the files using this tool: https://github.com/Scylardor/cminify<br>
 Also had to change settings in board for Partition Scheme.<br>
