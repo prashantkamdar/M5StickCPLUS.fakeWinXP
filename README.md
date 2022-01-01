@@ -18,3 +18,11 @@ After manually creating the header file for the loading gif from the C arrays, t
 Removed half the images (kept 1, removed 1, kept 1, removed 1) and 1-2 images at the start and 1-2 images in the end.<br>
 Had to minify all the files using this tool: https://github.com/Scylardor/cminify<br>
 Also had to change settings in board for Partition Scheme.<br>
+<br><br>
+
+![settings](settings.png?raw=true)
+![desktop](desktop.jpg?raw=true)
+![loading](loading.jpg?raw=true)
+![startup](startup.jpg?raw=true)
+![error](error.jpg?raw=true)
+![bsod](bsod.jpg?raw=true)
